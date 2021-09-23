@@ -1,0 +1,8 @@
+{
+  "name": "angular-bank-api",
+  "version": "1.0.0",
+  "description": "A simple api developed in with nodejs, typescript, express and graphql, to provide data to my angular graphql project.",
+  "main": "index.js",
+  "author": "Hugo Albrecht",
+  "license": "MIT"
+}

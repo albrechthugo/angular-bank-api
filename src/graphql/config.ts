@@ -40,7 +40,8 @@ const rootMutation = new GraphQLObjectType({
         destinyFriendId: args.destinyFriendId,
         type: args.type,
         amount: args.amount,
-        message: args.message 
+        message: args.message,
+        destinyFriendName: null
       })
     }
   }
